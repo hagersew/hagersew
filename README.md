@@ -3,7 +3,7 @@ Hi, I'm Abel <img src="https://github.com/hagersew/hagersew/blob/master/Wave.gif
 
 Frontend Developer
 
-- 🔭 I’m currently working on [Presence Browser](https://presencebrowser.com) in the Frontend Team
+- 🔭 I’m currently working on [Dala](https://dala.gebeya.com) as Lead Frontend Developer
 - 💬 Ask me about anything tech related, I am happy to help;
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
